@@ -5,7 +5,6 @@
 
 <div style="display:flex; justify-content: space-around;">
   <img width='400px' src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
-  <img width="300px" src="https://bestanimations.com/media/shapes/16059984723d-rings-computer-art-geometry-shape-gif-2.gif">
   <img width='300px' src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 </div>
 
