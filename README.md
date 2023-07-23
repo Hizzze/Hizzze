@@ -15,7 +15,7 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался ещё в школе. После этого я выбрал колледж по своей специальности "Информатика". Был перерыв в пару месяцев, когда я пробовал себя во многих направлениях, пытался выучить язык Python, попробовал свои силы в data science, но больше всего меня зацепила веб-разработка! С мая 2022 года я изучаю веб-разработку. Делаю прекрасные сайты от 0 до 1. Могу сделать отличный дизайн, вёрстку и загрузить все это на CMS. На данный момент я учусь в Польше на втором курсе, ищу работу. Приглашаю вас заглянуть в мой профиль!
 
   📬 	How to contact me: [![Telegram Badge](https://img.shields.io/badge/-vladhize-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vladhize) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hizes5050@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-vladhize-orange?style=flat&logo=Instagram&logoColor=white)](https://t.me/vladhize)
+[![Instagram Badge](https://img.shields.io/badge/-vladhize-orange?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vladislavhize/)
 
 ---
 
