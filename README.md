@@ -62,8 +62,6 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="wordpress" alt="wordpress" width="40" height="40"/>
           
-          
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width="40" height="40"/>
              
 </div>
 
