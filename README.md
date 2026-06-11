@@ -2,15 +2,19 @@
 
 ---
 
-<div style="display:flex; justify-content: space-around;">
+<div style="display:flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
   <img width='400px' src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
   <img width='300px' src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 </div>
 
+🌐 **Check out my Portfolio Website:** [vladyslavportfolio.netlify.app](https://vladyslavportfolio.netlify.app/)
+
+---
+
 📬 How to contact me: 
 [![Telegram Badge](https://img.shields.io/badge/-vladhize-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vladhize) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hizes5050@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-vladhize-orange?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vladislavhize/)
+[![Instagram Badge](https://img.shields.io/badge/-vladislavhize-orange?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vladislavhize/)
 
 ---
 
@@ -36,7 +40,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.instagram.com/vladislavhize" target="_blank">
+      <a href="https://www.instagram.com/vladislavhize/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="40" height="40" alt="instagram" />
       </a>
     </td>
@@ -65,7 +69,6 @@
 🛠 Tools:
 <table>
   <tr>
-   </td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/></td>
